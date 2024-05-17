@@ -1,13 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:ital,wght@0,500;1,300;1,400&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  background-color: #20242d;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+span,
+.primary-color{
+  background-image: linear-gradient(to right, #dd32f3, #ce90cb);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.bg-primary-color {
+  background-image: linear-gradient(to right, #6b2b72, #a5079d);
+  
 }
