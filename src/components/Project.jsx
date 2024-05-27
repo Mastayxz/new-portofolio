@@ -27,11 +27,11 @@ const Project = () => {
           </div>
         </div>
         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div h-[200px] bg-cover relative ">
-          <img src={proj2} layout="fill"  objectFit="cover" alt="project2" />
+          <img src={proj2} layout="fill" objectFit="cover" alt="project2" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-3xl font-bold text-white tracking-wider"></span>
             <div className="pt-8 text-center">
-              <a href="https://kelas2a04.lab-trpl.id/">
+              <a href="https://mastayxz.github.io/helpful-donation-website/">
                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                   live
                 </button>
@@ -40,11 +40,11 @@ const Project = () => {
           </div>
         </div>
         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div h-[200px] bg-cover relative ">
-          <img src={proj3} layout="fill"  objectFit="cover" alt="project2" />
+          <img src={proj3} layout="fill" objectFit="cover" alt="project2" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-3xl font-bold text-white tracking-wider"></span>
             <div className="pt-8 text-center">
-              <a href="https://kelas2a04.lab-trpl.id/">
+              <a href="https://pariwisata.lab-trpl.id/">
                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                   live
                 </button>
@@ -53,11 +53,11 @@ const Project = () => {
           </div>
         </div>
         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div h-[200px] bg-cover relative ">
-          <img src={proj4} layout="fill"  objectFit="cover" alt="project2" />
+          <img src={proj4} layout="fill" objectFit="cover" alt="project2" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-3xl font-bold text-white tracking-wider"></span>
             <div className="pt-8 text-center">
-              <a href="https://kelas2a04.lab-trpl.id/">
+              <a href="https://mastayxz.github.io/dog_house/">
                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                   live
                 </button>
@@ -66,11 +66,11 @@ const Project = () => {
           </div>
         </div>
         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div h-[200px] bg-cover relative ">
-          <img src={proj5} layout="fill"  objectFit="cover" alt="project2" />
+          <img src={proj5} layout="fill" objectFit="cover" alt="project2" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-3xl font-bold text-white tracking-wider"></span>
             <div className="pt-8 text-center">
-              <a href="https://kelas2a04.lab-trpl.id/">
+              <a href="https://mastayxz.github.io/dog_house/">
                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                   live
                 </button>
@@ -79,11 +79,11 @@ const Project = () => {
           </div>
         </div>
         <div className="transform transition-transform duration-300 hover:scale-105 overflow-hidden shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div h-[200px] bg-cover relative ">
-          <img src={proj6} layout="fill"  objectFit="cover" alt="project6" />
+          <img src={proj6} layout="fill" objectFit="cover" alt="project6" />
           <div className="opacity-0 group-hover:opacity-90 bg-[gray]/70 absolute inset-0 flex flex-col justify-center items-center">
             <span className="text-3xl font-bold text-white tracking-wider"></span>
             <div className="pt-8 text-center">
-              <a href="https://kelas2a04.lab-trpl.id/">
+              <a href="https://mastayxz.github.io/myportofolio/">
                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                   live
                 </button>
